@@ -8,7 +8,7 @@ release/
 
 # Gradle
 .gradle/
-build/
+build*/
 
 # Eclipse
 .classpath
